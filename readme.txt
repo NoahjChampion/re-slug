@@ -1,7 +1,7 @@
 === Re-slug ===
 Contributors: jcexygy, exygy, lukecav
 Tags: reslug, re-slug, slug, permalink, regenerate, generate, post, posts, plugin, admin
-Requires at least: 3.0
+Requires at least: 4.5
 Tested up to: 4.7.3
 Stable tag: 1.1
 License: GPLv2 or later
