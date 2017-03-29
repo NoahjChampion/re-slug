@@ -5,13 +5,13 @@ Plugin URI: http://exygy.com/re-slug-wordpress-plugin/
 Description: Regenerate the post permalink after changing the title
 Author: Exygy
 Author URI: http://exygy.com 
-Version: 1.0
+Version: 1.1
 */
 
 function add_reslug_button ($return) {
 	// Add Re-slug button after Edit buton
-	$return = str_replace('Edit</a></span>', 'Edit</a></span> <span id="re-slug" style="display:none;"><a href="#re-slug" class="button button-small hide-if-no-js">Re-slug</a></span>', $return);
-	return $return;
+	$return = str_replace('Edit</button>', 'Edit</button> <button type="button" id="re-slug" class="edit-slug button button-small hide-if-no-js" style="display:inherit;"><a href="#re-slug">Re-slug</a></button>', $return);
+	return $return;	
 }
 
 add_filter( 'get_sample_permalink_html', 'add_reslug_button', 10, 1 );
