@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Re-slug
+Plugin Name: Re-slug Updated
 Plugin URI: https://github.com/lukecav/re-slug
 Description: Regenerate the post permalink after changing the title
 Author: Luke Cavanagh
