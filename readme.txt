@@ -1,4 +1,4 @@
-=== Re-slug ===
+=== Re-slug Updated ===
 Contributors: jcexygy, exygy, lukecav
 Tags: reslug, re-slug, slug, permalink, regenerate, generate, post, posts, plugin, admin
 Requires at least: 4.5
