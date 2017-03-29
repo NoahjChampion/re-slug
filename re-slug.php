@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Re-slug
-Plugin URI: http://exygy.com/re-slug-wordpress-plugin/
+Plugin URI: https://github.com/lukecav/re-slug
 Description: Regenerate the post permalink after changing the title
 Author: Exygy
-Author URI: http://exygy.com 
+Author URI: https://profiles.wordpress.org/lukecavanagh
 Version: 1.1
 */
 
