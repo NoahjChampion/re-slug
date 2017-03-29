@@ -2,7 +2,7 @@
 /*
 Plugin Name: Re-slug Updated
 Plugin URI: https://github.com/lukecav/re-slug
-Description: Regenerate the post permalink after changing the title
+Description: Regenerate the post permalink after changing the title.
 Author: Luke Cavanagh
 Author URI: https://profiles.wordpress.org/lukecavanagh
 Version: 1.1
