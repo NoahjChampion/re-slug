@@ -1,9 +1,9 @@
 === Re-slug ===
-Contributors: jcexygy, exygy
+Contributors: jcexygy, exygy, lukecav
 Tags: reslug, re-slug, slug, permalink, regenerate, generate, post, posts, plugin, admin
 Requires at least: 3.0
-Tested up to: 3.7.1
-Stable tag: 1
+Tested up to: 4.7.3
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,9 @@ Questions/Comments/Bugs? Tweet us @exygy with the #wordpress hashtag!
 1. The Re-slug button is added next to the Edit button (on the Permalink line)
 
 == Changelog ==
+
+= 1.1 =
+* Updated to work in current WordPress version
 
 = 1.0 =
 * Initial release
