@@ -20,7 +20,7 @@ Simply click the Re-slug button to automatically change the permalink based on t
 
 == Frequently Asked Questions ==
 
-Questions/Comments/Bugs? Tweet us @exygy with the #wordpress hashtag!
+Questions/Comments/Bugs? Leave a issue.
 
 == Screenshots ==
 
