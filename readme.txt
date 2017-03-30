@@ -20,7 +20,7 @@ Simply click the Re-slug button to automatically change the permalink based on t
 
 == Frequently Asked Questions ==
 
-Questions/Comments/Bugs? Leave a issue.
+Questions/Comments/Bugs? Leave a issue. https://github.com/lukecav/re-slug/issues
 
 == Screenshots ==
 
@@ -29,7 +29,7 @@ Questions/Comments/Bugs? Leave a issue.
 == Changelog ==
 
 = 1.1 =
-* Updated to work in current WordPress version
+* Updated to work in the current version of WordPress
 
 = 1.0 =
 * Initial release
